@@ -4,10 +4,10 @@
 
 <h2><u>Know our coffee beans</u></h2>
 <p>
-  * <b>Arabica:</b> Known for its smooth and mild flavor, Arabica is the most popular coffee bean, accounting for about 60% of global production. It grows at higher altitudes, offering a wide flavor profile with hints of sweetness, fruitiness, and acidity.</br>
-  * <b>Robusta:</b> With a bold and bitter taste, Robusta beans are higher in caffeine and commonly used in espresso blends for their strong body and crema. They thrive in lower altitudes and are more resistant to pests.</br>
-  * <b>Liberica:</b> A rare and unique bean, Liberica is prized for its smoky, floral, and fruity aroma. Its distinct flavor profile sets it apart, though it is less widely cultivated.</br>
-  * <b>Excelsa:</b> A variety of Liberica, Excelsa has a tart, fruity, and complex flavor. It is often used to add depth and character to coffee blends, making it a favorite for adventurous coffee drinkers.</br>
+1. <b>Arabica:</b> Known for its smooth and mild flavor, Arabica is the most popular coffee bean, accounting for about 60% of global production. It grows at higher altitudes, offering a wide flavor profile with hints of sweetness, fruitiness, and acidity.</br>
+2. <b>Robusta:</b> With a bold and bitter taste, Robusta beans are higher in caffeine and commonly used in espresso blends for their strong body and crema. They thrive in lower altitudes and are more resistant to pests.</br>
+3. <b>Liberica:</b> A rare and unique bean, Liberica is prized for its smoky, floral, and fruity aroma. Its distinct flavor profile sets it apart, though it is less widely cultivated.</br>
+4. <b>Excelsa:</b> A variety of Liberica, Excelsa has a tart, fruity, and complex flavor. It is often used to add depth and character to coffee blends, making it a favorite for adventurous coffee drinkers.</br>
 </p>
 
 <h2><u>Objectives:</u></h2>
