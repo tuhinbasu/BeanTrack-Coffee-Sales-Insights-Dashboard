@@ -35,7 +35,7 @@
 2. Merged the necessary columns from the Customers and Products datasets into the Orders dataset for a unified view.</br>
 3. Utilized XLOOKUP, IFS, and INDEX-MATCH functions to efficiently retrieve and map data across tables.</br>
 3. Transformed the final dataset into a dynamic table, ensuring automatic updates in the dashboard with any new data additions.</br>
-5. Removed duplicates, replaced NaN values with empty strings, and standardized sales values by converting them to dollars.</br>
+5. Removed duplicates, replaced NaN values with empty strings, format date, and standardized sales values by converting them to dollars.</br>
 6. Converted dynamic tables into pivot tables to summarize and organize data effectively for dashboard development.</br>
 </p>
 
@@ -51,5 +51,11 @@
 6. Bean Performance by Region: Analyzed and displayed the performance of different beans in each region or country for localized insights.</br>
 7. Bean Sales and Profit Overview: Summarized total sales and profit.</br>
 
+<h2>Feedback</h2>
+<p>
 
+If you have any feedback, please reach out to [tuhinbasu97@gmail.com](tuhinbasu97@gmail.com) or connect with me on [linkedIn](https://www.linkedin.com/in/tuhinbasu)
+</p>
 
+<h2>About Me</h2>
+<p>Hello, My name is Tuhin Basu.<br>
