@@ -21,19 +21,21 @@
 
 <h2><u>Data</u></h2>
 <p>
-1. <b>Orders:</b> It contains all the details related to orders with Order ID, Customer ID, Product ID, Order Date, and Quantity.
-2. <b>Customers:</b> It contains all the details related to the customers with Customer ID, Customer Name, Email, Phone Number, Address, City, Country, Postcode, and Loyalty Card.
-3. <b>Products:</b> It contains all the products (beans) related details with Product ID, Coffee Type, Roast Type, Size, Unit Price, Price per 100g, and Profit.
+1. <b>Orders:</b> It contains all the details related to orders with Order ID, Customer ID, Product ID, Order Date, and Quantity..</br>
+2. <b>Customers:</b> It contains all the details related to the customers with Customer ID, Customer Name, Email, Phone Number, Address, City, Country, Postcode, and Loyalty Card..</br>
+3. <b>Products:</b> It contains all the products (beans) related details with Product ID, Coffee Type, Roast Type, Size, Unit Price, Price per 100g, and Profit..</br>
 </p>
 
 <h2><u>Data Manipulation and Cleaning</u></h2>
 <p>
-1. Analyse the data from three datasets, and identify the columns needed for the analysis.
-2. Imported the required columns from the Customers and the Products dataset to the Orders dataset.
-
+  
   ![image](https://github.com/user-attachments/assets/18105188-08f0-4e7c-9810-e9a3155e0eb8)
 
-3. Used xlookup, ifs, and index match functions to fetch values from other tables.
+1. Analysed three datasets to identify and select the relevant columns required for the analysis.</br>
+2. Merged the necessary columns from the Customers and Products datasets into the Orders dataset for a unified view..</br>
+3. Utilized XLOOKUP, IFS, and INDEX-MATCH functions to efficiently retrieve and map data across tables..</br>
+3. Transformed the final dataset into a dynamic table, ensuring automatic updates in the dashboard with any new data additions..</br>
+5. Removed duplicates, replaced NaN values with empty strings, and standardized sales values by converting them to dollars..</br>
 </p>
 
 
