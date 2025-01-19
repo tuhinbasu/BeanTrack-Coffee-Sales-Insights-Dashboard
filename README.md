@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/795be1b2-7322-4db1-a9d9-5634b206ec7f)
 
-<h2><u>Know your coffee beans</u></h2>
+<h2><u>Know your Coffee Beans</u></h2>
 <p>
 1. <b>Arabica:</b> Known for its smooth and mild flavor, Arabica is the most popular coffee bean, accounting for about 60% of global production. It grows at higher altitudes, offering a wide flavor profile with hints of sweetness, fruitiness, and acidity.</br>
 2. <b>Robusta:</b> With a bold and bitter taste, Robusta beans are higher in caffeine and commonly used in espresso blends for their strong body and crema. They thrive in lower altitudes and are more resistant to pests.</br>
